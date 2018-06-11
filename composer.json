@@ -1,5 +1,5 @@
 {
-    "name": "heyday/silverstripe-versioneddataobjects",
+    "name": "azt3k/silverstripe-versioneddataobjects",
     "type": "silverstripe-module",
     "description": "Provides Versioned DataObjects in SilverStripe",
     "authors": [
